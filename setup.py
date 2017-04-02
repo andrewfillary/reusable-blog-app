@@ -33,6 +33,5 @@ setup(
         'Pillow',
         'django_forms_bootstrap',
         'django-disqus',
-        'git+https://github.com//blog.git',
     ],
 )
